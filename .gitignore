@@ -1,0 +1,11 @@
+# Dependency directory
+node_modules
+
+# Bundle
+dist
+
+# VS Code Editor
+.vscode
+
+# Git
+.git

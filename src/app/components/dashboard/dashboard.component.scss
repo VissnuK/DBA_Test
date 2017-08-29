@@ -1,0 +1,45 @@
+.dashboard-area {
+    position: relative;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background-color: #f4f4f4;
+    height: 100%;
+    border-left: 1px solid lightgrey;
+    padding: 2% 2%;
+    overflow: hidden;
+}
+
+.tool-bar {
+    position: relative;
+    height: 70px;
+}
+
+.search-box {
+    background-color: white;
+    font-size: small;
+    display: block;
+}
+
+.uk-button.blue
+{
+    background-color: rgb(27,108,146);
+    border-radius: 5px;
+    color: white;
+    float: right;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.uk-search.uk-search-default {
+    float: left;
+}
+
+.uk-search-input {
+    background-color: white;
+}
+
+.brand-header {
+    text-align: left !important;
+}
