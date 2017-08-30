@@ -4,7 +4,7 @@ import { browser, element, by } from 'protractor';
 
 describe('End-to-End Tests', function () {
 
-  let expectedMsg = 'Sahay';
+  let expectedMsg = 'DBAProject';
 
   beforeEach(function () {
     browser.get('');

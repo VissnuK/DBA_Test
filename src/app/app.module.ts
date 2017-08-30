@@ -16,7 +16,7 @@ import { ROUTES } from './app.routes';
     AppComponent,
     HeaderComponent,
     DashboardComponent,
-    FooterComponent,
+    FooterComponent
   ],
   bootstrap: [AppComponent]
 })
